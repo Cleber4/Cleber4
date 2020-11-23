@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on mobile 
 - 🌱 I’m currently learning Dart and Flutter
-- 💬 Ask me about Anything
+- 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](linkedin.com/in/cleberson-gilvan-2b9a63ba)
 
 #### languages and tools use for me
