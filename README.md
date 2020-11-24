@@ -9,9 +9,8 @@
 
 <img img height="170" align="center" style="border-radius: 2px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&theme=dark" ></img>
 <img img height="170" align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=cleber4&layout=compact&theme=dark" />
-</p></br>
 
-#### languages and tools used by me
+#### languages and tools used by me:
 
 ![dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
