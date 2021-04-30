@@ -2,7 +2,7 @@
 
 
 
-- 📱 I’m currently working on mobile 
+- 📱 I’m currently working with mobile apps 
 - 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me: [Linkedin](linkedin.com/in/cleberson-gilvan-2b9a63ba)
 
