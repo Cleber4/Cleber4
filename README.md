@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Linkedin](linkedin.com/in/cleberson-gilvan-2b9a63ba)
 
 
-<img img height="170" align="center" style="border-radius: 2px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" ></img>
+<img height="170" align="center" style="border-radius: 2px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" ></img>
 <img img height="170" align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=cleber4&layout=compact&theme=tokyonight" />
 
 #### languages and tools used by me:
