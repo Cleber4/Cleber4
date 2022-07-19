@@ -9,7 +9,7 @@
 
 <!-- <img img height="170" align="center" style="border-radius: 2px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" ></img>
 <img img height="170" align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=cleber4&layout=compact&theme=tokyonight" /> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&&card_width=100&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleber4&show_icons=true&hide_border=true&count_private=true&card_width=100&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleber4&layout=compact&theme=tokyonight)](https://github.com/cleber4/github-readme-stats)
 
 #### languages and tools used by me:
